@@ -1,7 +1,7 @@
 # Murari
 ![Murari](https://github.com/asimtarapathak/Murari/assets/50657538/96c96635-de72-4891-b407-47e2495368a8)
 ---
-## Murari is a command-line tool built using Python that empowers cybersecurity professionals to enhance email security and conduct thorough email analysis.
+## Murari is a command-line tool built using Python that empowers cybersecurity professionals to enhance email security and conduct email analysis.
 
 ### Features of Murari:
 
